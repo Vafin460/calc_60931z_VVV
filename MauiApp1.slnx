@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Logic/Logic.csproj" Id="d066146e-9665-4d0e-ac33-4ca171943f9d" />
+  <Project Path="LogicTest/LogicTest.csproj" Id="f5c00f72-1f3f-498e-a2db-9e1cd851608c" />
+  <Project Path="MauiApp1/MauiApp1.csproj" />
+</Solution>
